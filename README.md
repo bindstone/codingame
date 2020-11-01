@@ -14,3 +14,7 @@ https://www.javatpoint.com/floyd-warshall-algorithm
 
 https://jeffbradberry.com/posts/2015/09/intro-to-monte-carlo-tree-search/
 
+https://cp-algorithms.com/
+
+https://www.redblobgames.com/pathfinding/a-star/introduction.html
+
